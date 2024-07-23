@@ -15,6 +15,7 @@ contourpy==1.2.1
 cycler==0.12.1
 dataclasses-json==0.6.7
 entrypoints==0.4
+faiss-cpu==1.8.0.post1
 Faker==26.0.0
 favicon==0.7.0
 fonttools==4.53.1
