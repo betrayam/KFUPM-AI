@@ -15,7 +15,7 @@ contourpy==1.2.1
 cycler==0.12.1
 dataclasses-json==0.6.7
 entrypoints==0.4
-faiss-cpu==1.8.0.post1
+faiss-cpu==1.8.0
 Faker==26.0.0
 favicon==0.7.0
 fonttools==4.53.1
@@ -76,7 +76,7 @@ Pygments==2.18.0
 pymdown-extensions==10.8.1
 pyparsing==3.1.2
 PyPDF2==3.0.1
-python-dateutil==2.9.0.post0
+python-dateutil==2.9.0
 python-dotenv==1.0.1
 pytz==2024.1
 PyYAML==6.0.1
